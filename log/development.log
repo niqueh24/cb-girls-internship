@@ -603,3 +603,24 @@ Started GET "/day1" for 127.0.0.1 at 2015-06-24 09:58:00 -0400
 Processing by Day1Controller#arival as HTML
   Rendered day1/application.html.erb (230.0ms)
 Completed 200 OK in 242ms (Views: 234.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-06-30 09:10:22 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (3.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (263.7ms)
+Completed 200 OK in 278ms (Views: 270.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-06-30 09:10:23 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (268.0ms)
+Completed 200 OK in 281ms (Views: 273.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-06-30 09:10:25 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (246.8ms)
+Completed 200 OK in 259ms (Views: 251.6ms | ActiveRecord: 0.0ms)
