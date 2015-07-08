@@ -4910,3 +4910,477 @@ Started GET "/assets/cora-c8d800a54ca9c6e485f580c44795c025635e79af15c0f3c004ce08
 Started GET "/assets/morgan-e46509b36f084eca9e0e89d4782fea4d5864ccca77b2b669373aef50a1d0d31d.jpg" for 127.0.0.1 at 2015-07-06 10:26:13 -0400
   [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
   [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-06 10:52:52 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (473.1ms)
+Completed 200 OK in 486ms (Views: 478.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/messages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-07-06 10:52:55 -0400
+
+
+Started GET "/assets/day1.self-1d18cc7dc5c5b675d80a2567451dce6d25a2a12e62201df3eb4d12878fdb86d8.css?body=1" for 127.0.0.1 at 2015-07-06 10:52:55 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-07-06 10:52:58 -0400
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2015-07-06 10:52:58 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 127.0.0.1 at 2015-07-06 10:53:00 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-07-06 10:53:00 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/day1.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:53:03 -0400
+
+
+Started GET "/assets/messages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:53:03 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-07-06 10:53:06 -0400
+
+
+Started GET "/assets/nemi-dc38d3f04a142c69d04c7c0152576549db954bceda558b69d0e441801bb0ba95.jpg" for 127.0.0.1 at 2015-07-06 10:53:06 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/christine.JPG-be861ceb5470324bf40ef63bf2abd7d5515284fae156c4196b6f129cfe51ceb3.jpg" for 127.0.0.1 at 2015-07-06 10:53:08 -0400
+
+
+Started GET "/assets/pic1-59faf7f512067dd57a079730b8223026aeff22d1b8e2f4728e9ed70323ffc389.jpg" for 127.0.0.1 at 2015-07-06 10:53:08 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/ruby-c0aa1d972cef90cb3b440f1f33b93f96f0607408201efd4779904b1272b54774.jpg" for 127.0.0.1 at 2015-07-06 10:53:11 -0400
+
+
+Started GET "/assets/carina.JPG-bf66176071a841023eaa9be1763b42e7ffc1312967211f0c3e095ac709f42c28.jpg" for 127.0.0.1 at 2015-07-06 10:53:11 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/stephanie-ec2ed0d01817663604d5f89ac9728963b5fafe2f1f9b1bf891efb17aba777926.jpg" for 127.0.0.1 at 2015-07-06 10:53:13 -0400
+Started GET "/assets/amani.JPG-59a11f6d200f2486ff0250af9a00a015d93f8508c7a63d18e357de0af38a2258.jpg" for 127.0.0.1 at 2015-07-06 10:53:13 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/kelsie-01d797714c76b1afc8973ef6dd6d7f6666b744005689b21c43af1adf551b4afe.jpg" for 127.0.0.1 at 2015-07-06 10:53:16 -0400
+
+
+Started GET "/assets/morgan-e46509b36f084eca9e0e89d4782fea4d5864ccca77b2b669373aef50a1d0d31d.jpg" for 127.0.0.1 at 2015-07-06 10:53:16 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/nique.jpg-d420d817f8dc2dbcb2da9e590609ecb39b45f9822ed6e127cea917ffcb7a08db.jpg" for 127.0.0.1 at 2015-07-06 10:53:18 -0400
+
+
+Started GET "/assets/cora-c8d800a54ca9c6e485f580c44795c025635e79af15c0f3c004ce08a26659be66.jpg" for 127.0.0.1 at 2015-07-06 10:53:18 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-06 10:54:49 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (252.2ms)
+Completed 200 OK in 266ms (Views: 258.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/day1.self-1d18cc7dc5c5b675d80a2567451dce6d25a2a12e62201df3eb4d12878fdb86d8.css?body=1" for 127.0.0.1 at 2015-07-06 10:54:52 -0400
+
+
+Started GET "/assets/messages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-07-06 10:54:52 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-07-06 10:54:54 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2015-07-06 10:54:54 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 127.0.0.1 at 2015-07-06 10:54:57 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-07-06 10:54:57 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/day1.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:54:59 -0400
+Started GET "/assets/messages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:54:59 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/nemi-dc38d3f04a142c69d04c7c0152576549db954bceda558b69d0e441801bb0ba95.jpg" for 127.0.0.1 at 2015-07-06 10:55:02 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-07-06 10:55:02 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/pic1-59faf7f512067dd57a079730b8223026aeff22d1b8e2f4728e9ed70323ffc389.jpg" for 127.0.0.1 at 2015-07-06 10:55:04 -0400
+
+
+Started GET "/assets/ruby-c0aa1d972cef90cb3b440f1f33b93f96f0607408201efd4779904b1272b54774.jpg" for 127.0.0.1 at 2015-07-06 10:55:04 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/christine.JPG-be861ceb5470324bf40ef63bf2abd7d5515284fae156c4196b6f129cfe51ceb3.jpg" for 127.0.0.1 at 2015-07-06 10:55:07 -0400
+
+
+Started GET "/assets/carina.JPG-bf66176071a841023eaa9be1763b42e7ffc1312967211f0c3e095ac709f42c28.jpg" for 127.0.0.1 at 2015-07-06 10:55:07 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/amani.JPG-59a11f6d200f2486ff0250af9a00a015d93f8508c7a63d18e357de0af38a2258.jpg" for 127.0.0.1 at 2015-07-06 10:55:10 -0400
+
+
+Started GET "/assets/stephanie-ec2ed0d01817663604d5f89ac9728963b5fafe2f1f9b1bf891efb17aba777926.jpg" for 127.0.0.1 at 2015-07-06 10:55:10 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/morgan-e46509b36f084eca9e0e89d4782fea4d5864ccca77b2b669373aef50a1d0d31d.jpg" for 127.0.0.1 at 2015-07-06 10:55:12 -0400
+
+
+Started GET "/assets/kelsie-01d797714c76b1afc8973ef6dd6d7f6666b744005689b21c43af1adf551b4afe.jpg" for 127.0.0.1 at 2015-07-06 10:55:12 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/cora-c8d800a54ca9c6e485f580c44795c025635e79af15c0f3c004ce08a26659be66.jpg" for 127.0.0.1 at 2015-07-06 10:55:15 -0400
+
+
+Started GET "/assets/nique.jpg-d420d817f8dc2dbcb2da9e590609ecb39b45f9822ed6e127cea917ffcb7a08db.jpg" for 127.0.0.1 at 2015-07-06 10:55:15 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-06 10:57:40 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (325.9ms)
+Completed 200 OK in 340ms (Views: 331.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/messages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-07-06 10:57:43 -0400
+
+
+Started GET "/assets/day1.self-f986c1f31fd2b357e142c3eec33d0e8d86c85a1e2eca71c88e4aa23ff045af8a.css?body=1" for 127.0.0.1 at 2015-07-06 10:57:43 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-07-06 10:57:45 -0400
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2015-07-06 10:57:45 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-07-06 10:57:48 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 127.0.0.1 at 2015-07-06 10:57:48 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/messages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:57:50 -0400
+Started GET "/assets/day1.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:57:50 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-07-06 10:57:53 -0400
+
+
+Started GET "/assets/nemi-dc38d3f04a142c69d04c7c0152576549db954bceda558b69d0e441801bb0ba95.jpg" for 127.0.0.1 at 2015-07-06 10:57:53 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/christine.JPG-be861ceb5470324bf40ef63bf2abd7d5515284fae156c4196b6f129cfe51ceb3.jpg" for 127.0.0.1 at 2015-07-06 10:57:56 -0400
+Started GET "/assets/pic1-59faf7f512067dd57a079730b8223026aeff22d1b8e2f4728e9ed70323ffc389.jpg" for 127.0.0.1 at 2015-07-06 10:57:56 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/ruby-c0aa1d972cef90cb3b440f1f33b93f96f0607408201efd4779904b1272b54774.jpg" for 127.0.0.1 at 2015-07-06 10:57:58 -0400
+
+
+Started GET "/assets/carina.JPG-bf66176071a841023eaa9be1763b42e7ffc1312967211f0c3e095ac709f42c28.jpg" for 127.0.0.1 at 2015-07-06 10:57:58 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/stephanie-ec2ed0d01817663604d5f89ac9728963b5fafe2f1f9b1bf891efb17aba777926.jpg" for 127.0.0.1 at 2015-07-06 10:58:01 -0400
+
+
+Started GET "/assets/amani.JPG-59a11f6d200f2486ff0250af9a00a015d93f8508c7a63d18e357de0af38a2258.jpg" for 127.0.0.1 at 2015-07-06 10:58:01 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/kelsie-01d797714c76b1afc8973ef6dd6d7f6666b744005689b21c43af1adf551b4afe.jpg" for 127.0.0.1 at 2015-07-06 10:58:03 -0400
+
+
+Started GET "/assets/morgan-e46509b36f084eca9e0e89d4782fea4d5864ccca77b2b669373aef50a1d0d31d.jpg" for 127.0.0.1 at 2015-07-06 10:58:03 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+
+
+Started GET "/assets/cora-c8d800a54ca9c6e485f580c44795c025635e79af15c0f3c004ce08a26659be66.jpg" for 127.0.0.1 at 2015-07-06 10:58:06 -0400
+Started GET "/assets/nique.jpg-d420d817f8dc2dbcb2da9e590609ecb39b45f9822ed6e127cea917ffcb7a08db.jpg" for 127.0.0.1 at 2015-07-06 10:58:06 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-06 10:58:45 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (280.4ms)
+Completed 200 OK in 293ms (Views: 285.7ms | ActiveRecord: 0.0ms)
+
+
+
+
+Started GET "/assets/day1.self-1d18cc7dc5c5b675d80a2567451dce6d25a2a12e62201df3eb4d12878fdb86d8.css?body=1" for 127.0.0.1 at 2015-07-06 10:58:48 -0400
+Started GET "/assets/messages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-07-06 10:58:48 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2015-07-06 10:58:51 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-07-06 10:58:51 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-07-06 10:58:53 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 127.0.0.1 at 2015-07-06 10:58:53 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/messages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:58:56 -0400
+
+
+Started GET "/assets/day1.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 10:58:56 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/nemi-dc38d3f04a142c69d04c7c0152576549db954bceda558b69d0e441801bb0ba95.jpg" for 127.0.0.1 at 2015-07-06 10:58:58 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-07-06 10:58:59 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/christine.JPG-be861ceb5470324bf40ef63bf2abd7d5515284fae156c4196b6f129cfe51ceb3.jpg" for 127.0.0.1 at 2015-07-06 10:59:01 -0400
+
+
+Started GET "/assets/pic1-59faf7f512067dd57a079730b8223026aeff22d1b8e2f4728e9ed70323ffc389.jpg" for 127.0.0.1 at 2015-07-06 10:59:01 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/carina.JPG-bf66176071a841023eaa9be1763b42e7ffc1312967211f0c3e095ac709f42c28.jpg" for 127.0.0.1 at 2015-07-06 10:59:04 -0400
+
+
+Started GET "/assets/ruby-c0aa1d972cef90cb3b440f1f33b93f96f0607408201efd4779904b1272b54774.jpg" for 127.0.0.1 at 2015-07-06 10:59:04 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/stephanie-ec2ed0d01817663604d5f89ac9728963b5fafe2f1f9b1bf891efb17aba777926.jpg" for 127.0.0.1 at 2015-07-06 10:59:07 -0400
+
+
+Started GET "/assets/amani.JPG-59a11f6d200f2486ff0250af9a00a015d93f8508c7a63d18e357de0af38a2258.jpg" for 127.0.0.1 at 2015-07-06 10:59:07 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/kelsie-01d797714c76b1afc8973ef6dd6d7f6666b744005689b21c43af1adf551b4afe.jpg" for 127.0.0.1 at 2015-07-06 10:59:10 -0400
+
+
+Started GET "/assets/morgan-e46509b36f084eca9e0e89d4782fea4d5864ccca77b2b669373aef50a1d0d31d.jpg" for 127.0.0.1 at 2015-07-06 10:59:10 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/cora-c8d800a54ca9c6e485f580c44795c025635e79af15c0f3c004ce08a26659be66.jpg" for 127.0.0.1 at 2015-07-06 10:59:13 -0400
+
+
+Started GET "/assets/nique.jpg-d420d817f8dc2dbcb2da9e590609ecb39b45f9822ed6e127cea917ffcb7a08db.jpg" for 127.0.0.1 at 2015-07-06 10:59:13 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-06 11:00:18 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (285.8ms)
+Completed 200 OK in 298ms (Views: 290.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/messages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-07-06 11:00:21 -0400
+
+
+Started GET "/assets/day1.self-1d18cc7dc5c5b675d80a2567451dce6d25a2a12e62201df3eb4d12878fdb86d8.css?body=1" for 127.0.0.1 at 2015-07-06 11:00:21 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2015-07-06 11:00:24 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-07-06 11:00:24 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-07-06 11:00:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 127.0.0.1 at 2015-07-06 11:00:27 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/messages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 11:00:29 -0400
+
+
+Started GET "/assets/day1.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-07-06 11:00:29 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/nemi-dc38d3f04a142c69d04c7c0152576549db954bceda558b69d0e441801bb0ba95.jpg" for 127.0.0.1 at 2015-07-06 11:00:32 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-07-06 11:00:32 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/christine.JPG-be861ceb5470324bf40ef63bf2abd7d5515284fae156c4196b6f129cfe51ceb3.jpg" for 127.0.0.1 at 2015-07-06 11:00:35 -0400
+
+
+Started GET "/assets/pic1-59faf7f512067dd57a079730b8223026aeff22d1b8e2f4728e9ed70323ffc389.jpg" for 127.0.0.1 at 2015-07-06 11:00:35 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/carina.JPG-bf66176071a841023eaa9be1763b42e7ffc1312967211f0c3e095ac709f42c28.jpg" for 127.0.0.1 at 2015-07-06 11:00:38 -0400
+
+
+Started GET "/assets/ruby-c0aa1d972cef90cb3b440f1f33b93f96f0607408201efd4779904b1272b54774.jpg" for 127.0.0.1 at 2015-07-06 11:00:38 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/amani.JPG-59a11f6d200f2486ff0250af9a00a015d93f8508c7a63d18e357de0af38a2258.jpg" for 127.0.0.1 at 2015-07-06 11:00:41 -0400
+
+
+Started GET "/assets/stephanie-ec2ed0d01817663604d5f89ac9728963b5fafe2f1f9b1bf891efb17aba777926.jpg" for 127.0.0.1 at 2015-07-06 11:00:41 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/kelsie-01d797714c76b1afc8973ef6dd6d7f6666b744005689b21c43af1adf551b4afe.jpg" for 127.0.0.1 at 2015-07-06 11:00:43 -0400
+
+
+Started GET "/assets/morgan-e46509b36f084eca9e0e89d4782fea4d5864ccca77b2b669373aef50a1d0d31d.jpg" for 127.0.0.1 at 2015-07-06 11:00:43 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/assets/nique.jpg-d420d817f8dc2dbcb2da9e590609ecb39b45f9822ed6e127cea917ffcb7a08db.jpg" for 127.0.0.1 at 2015-07-06 11:00:46 -0400
+
+
+Started GET "/assets/cora-c8d800a54ca9c6e485f580c44795c025635e79af15c0f3c004ce08a26659be66.jpg" for 127.0.0.1 at 2015-07-06 11:00:46 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-07 11:38:55 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (5.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (401.6ms)
+Completed 200 OK in 416ms (Views: 408.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/day1.self-8614f04a34d10e056828b71dca75c3ae34a97126dc126cab93f445f61caa5a27.css?body=1" for 127.0.0.1 at 2015-07-07 11:38:58 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-07 18:03:50 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (3.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (309.6ms)
+Completed 200 OK in 328ms (Views: 318.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-08 13:47:05 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (1.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (322.8ms)
+Completed 200 OK in 339ms (Views: 330.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-08 15:07:23 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (323.9ms)
+Completed 200 OK in 338ms (Views: 329.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/day1" for 127.0.0.1 at 2015-07-08 15:07:24 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Day1Controller#arival as HTML
+  Rendered day1/application.html.erb (284.4ms)
+Completed 200 OK in 297ms (Views: 289.4ms | ActiveRecord: 0.0ms)
